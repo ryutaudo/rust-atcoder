@@ -10,4 +10,4 @@ proconio = "0.4.3"
 
 [[bin]]
 name = "code"
-path = "src/abc174-a-air-conditioner.rs"
+path = "src/abc164-a-sheep-and-wolves.rs"
