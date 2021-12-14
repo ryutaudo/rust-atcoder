@@ -10,4 +10,4 @@ proconio = "0.4.3"
 
 [[bin]]
 name = "code"
-path = "src/abc180-b-various-distances.rs"
+path = "src/abc174-b-distance.rs"
