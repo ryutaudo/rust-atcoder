@@ -10,4 +10,4 @@ proconio = "0.4.3"
 
 [[bin]]
 name = "code"
-path = "src/abc187-b-gentle-pairs.rs"
+path = "src/abc179-c-a*b+c.rs"
