@@ -10,4 +10,4 @@ proconio = "0.4.3"
 
 [[bin]]
 name = "code"
-path = "src/abc184-b-quizzes.rs"
+path = "src/abc176-b-multilple-of-9.rs"
