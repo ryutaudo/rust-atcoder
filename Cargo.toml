@@ -10,4 +10,4 @@ proconio = "0.4.3"
 
 [[bin]]
 name = "code"
-path = "src/abc189-b-alcoholic.rs"
+path = "src/abc192-b-unreadable-string.rs"
