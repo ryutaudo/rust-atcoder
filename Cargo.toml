@@ -10,4 +10,4 @@ proconio = "0.4.3"
 
 [[bin]]
 name = "code"
-path = "src/abc126-b-yymm-or-mmyy.rs"
+path = "src/abc127-a-ferris-wheel.rs"
