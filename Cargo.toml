@@ -10,4 +10,4 @@ proconio = "0.4.3"
 
 [[bin]]
 name = "code"
-path = "src/abc138-a-red-or-not.rs"
+path = "src/abc138-b-resistors-in-parallel.rs"
