@@ -10,4 +10,4 @@ proconio = "0.4.3"
 
 [[bin]]
 name = "code"
-path = "src/abc90-c-flip-flip-and-flip.rs"
+path = "src/abc141-a-weather-prediction.rs"
