@@ -10,4 +10,4 @@ proconio = "0.4.3"
 
 [[bin]]
 name = "code"
-path = "src/abc141-b-tap-dance.rs"
+path = "src/abc142-a-odds-of-oddness.rs"
